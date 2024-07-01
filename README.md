@@ -33,6 +33,6 @@
 * https://github.com/has-castle/fixed_point
 
 ### Bitnet:
-* Bitnet: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=BitNet%3A+Scaling+1-bit+Transformers+for+Large+Language+Models&btnG=
-* The Era of 1-bit LLMs: https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=The+Era+of+1-bit+LLMs%3A+All+Large+Language+Models+are+in+1.58+Bits&btnG=
+* Bitnet:[[Link]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=BitNet%3A+Scaling+1-bit+Transformers+for+Large+Language+Models&btnG=)
+* The Era of 1-bit LLMs:[[Link]](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=The+Era+of+1-bit+LLMs%3A+All+Large+Language+Models+are+in+1.58+Bits&btnG=)
 
